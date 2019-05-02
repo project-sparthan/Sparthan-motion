@@ -1,4 +1,4 @@
-# Sparthan module
+# Sparthan Module
 
 Arduino ESP32 library to communicate with the Sparthan Module development kit. This library provides APIs to drive all of the five motors available on each Sparthan Module using PID position control.
 
